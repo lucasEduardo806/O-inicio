@@ -1,6 +1,4 @@
-# O-inicio
-E só o inicio de um site
-[index1.html](https://github.com/user-attachments/files/31535247/index1.html)
+
 <!DOCTYPE html>
 <html lang="pt-br">
     <script src="script.js"></script>
